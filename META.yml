@@ -30,6 +30,7 @@ requires:
   Kelp: 0.2191
   Kelp::Base: 0
   Module::Build::Tiny: 0
+  Scalar::Util: 0
   Sub::Install: 0
   Validate::Tiny: 0
   parent: 0
@@ -38,4 +39,4 @@ resources:
   bugtracker: https://github.com/Bhat-Gurunandan/Kelp-Module-ValidateTiny/issues
   homepage: https://github.com/Bhat-Gurunandan/Kelp-Module-ValidateTiny
   repository: https://github.com/Bhat-Gurunandan/Kelp-Module-ValidateTiny.git
-version: 0.03
+version: 0.04

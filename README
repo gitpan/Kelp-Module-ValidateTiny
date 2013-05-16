@@ -141,3 +141,5 @@ LICENSE
     under the same terms as Perl itself.
 
 SEE ALSO
+    Kelp, Kelp::Module, Validate::Tiny
+
